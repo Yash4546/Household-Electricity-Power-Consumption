@@ -3,7 +3,7 @@ This project aims to predict household electricity consumption using historical 
 
 #**Installation**
 
-Clone this repository: git clone <https://github.com/Mayur2157/Household-Electricity-Consumption-Forecasting>
+
 Install dependencies: pip install -r requirements.txt (Include the actual dependencies from your project in the requirements.txt file)
 
 #**Usage**
